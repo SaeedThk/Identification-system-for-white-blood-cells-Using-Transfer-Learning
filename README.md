@@ -10,3 +10,12 @@ They are: neutrophils, lymphocytes, monocytes, eosinophils and basophils. In thi
 
 ![A](https://s20.picofile.com/file/8442487984/Types_of_White_Blood_Cells.png)
 
+---
+### CNN Structure Summary
+<img width="500" alt="2" src="https://user-images.githubusercontent.com/73002780/138605523-79eb4b7b-a485-432d-9df7-663d3ae10900.jpg">
+<img width="733" alt="2" src="https://user-images.githubusercontent.com/73002780/138605541-4ff7affd-c02b-43a1-997c-b4dbaf853570.png">
+
+---
+## Results
+---
+### 
