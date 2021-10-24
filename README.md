@@ -54,4 +54,34 @@ VGG16 is a convolutional neural network model proposed by K. Simonyan and A. Zis
 ### dataset
 ImageNet is a dataset of over 15 million labeled high-resolution images belonging to roughly 22,000 categories. The images were collected from the web and labeled by human labelers using Amazon’s Mechanical Turk crowd-sourcing tool. Starting in 2010, as part of the Pascal Visual Object Challenge, an annual competition called the ImageNet Large-Scale Visual Recognition Challenge (ILSVRC) has been held. ILSVRC uses a subset of ImageNet with roughly 1000 images in each of 1000 categories. At all, there are roughly 1.2 million training images, 50,000 validation images, and 150,000 testing images. ImageNet consists of variable-resolution images. Therefore, the images have been down-sampled to a fixed resolution of 256×256. Given a rectangular image, the image is rescaled and cropped out the central 256×256 patch from the resulting image.
 
+---
+### VGG16 Structure Summary
+<img width="1000" alt="2" src="https://user-images.githubusercontent.com/73002780/138612261-623264b0-e083-42da-b5fb-8da43c560860.jpg">
+
+
+---
+## VGG16 Model Results
+---
+### loss and accuracy for Validation and Train data:
+| Validation  | Validation | Train  | Train |
+| ------------- | ------------- | ------------- | ------------- |
+| Loss  | 0.0330  | Loss  | 0.0006  |
+| Accuracy  | 0.9934  | Accuracy  | 1.0  |
+
+### Accuracy for Train, Test1 and Test2 datas:
+| Train Accuracy | Test1 Accuracy  | Test2 Accuracy |
+| ------------- | ------------- | ------------- |
+| 0.9975  | 0.9221  | 0.0679  |
+
+### Training History Plot
+<img width="500" alt="2" src="https://user-images.githubusercontent.com/73002780/138612317-f88eaeb7-9a43-44f3-abe6-656b52fcc051.jpg">
+
+### Classification Report For Test1 Datas
+<img width="500" alt="4" src="https://user-images.githubusercontent.com/73002780/138612336-818cca47-af16-4385-a8c7-5c8dcc10d0e4.png">
+
+### Classification Report For Test2 Datas
+<img width="500" alt="5" src="https://user-images.githubusercontent.com/73002780/138612353-f9daa717-5167-464d-9cf3-3ba42e86c6d7.png">
+
+### Confusion Matrix For Train, Test1 and Test2 Datas
+![6](https://user-images.githubusercontent.com/73002780/138612360-2cb76597-a0ed-4917-b6af-d57fa00bac27.jpg)
 
