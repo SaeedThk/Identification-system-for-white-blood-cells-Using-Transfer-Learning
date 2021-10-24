@@ -56,7 +56,7 @@ ImageNet is a dataset of over 15 million labeled high-resolution images belongin
 
 ---
 ### VGG16 Structure Summary
-<img width="1000" alt="2" src="https://user-images.githubusercontent.com/73002780/138612261-623264b0-e083-42da-b5fb-8da43c560860.jpg">
+<img width="1300" alt="2" src="https://user-images.githubusercontent.com/73002780/138612261-623264b0-e083-42da-b5fb-8da43c560860.jpg">
 
 
 ---
@@ -85,3 +85,15 @@ ImageNet is a dataset of over 15 million labeled high-resolution images belongin
 ### Confusion Matrix For Train, Test1 and Test2 Datas
 ![6](https://user-images.githubusercontent.com/73002780/138612360-2cb76597-a0ed-4917-b6af-d57fa00bac27.jpg)
 
+
+---
+### License Information
+This product is open source!
+
+So, Feel free to download, use or make any changes you like to this file
+Also, you can contact me with email, instagram and telegram to talk about it.
++ Email: Saeedtajikhk@gmail.com
++ Instagram: saeedthk
++ Telegram: SaeedThk
+
+Your friend Saeed Tajik Hesarkuchak.
